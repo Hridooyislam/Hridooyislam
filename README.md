@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-- 🌐 **Explore My Work:** Check out my live interactive portfolio at **[hridoy-islam.vercel.app](https://hridoy-islam.vercel.app/)**
+- 🌐 **Portfolio:** Explore my live projects and designs at **[hridoy-islam.vercel.app](https://hridoy-islam.vercel.app/)**
 - 💡 **Core Specialization:** End-to-end full-stack engineering, React 18 single-page applications, Node/Express RESTful APIs, PostgreSQL relational schemas, and responsive UI design systems.
 - 🛡️ **Security Architecture:** Experienced in AES-256 field-level database encryption, cryptographic hashing (bcrypt), JWT role-based access control (RBAC), and API rate limiting.
 - 🗺️ **GIS & Geolocation:** Skilled in Leaflet.js interactive maps, GPS coordinate routing, and custom marker clustering.
@@ -71,68 +71,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-### 🌟 Featured Projects & Engineering Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍲 ShareMeal</h3>
-      <p align="center">
-        <strong>Community Surplus Food Rescue & Distribution Platform</strong>
-      </p>
-      <p>
-        A comprehensive production-grade web application engineered to eliminate food waste and fight hunger. Connects donors, verified NGOs, and anonymous meal receivers in real-time.
-      </p>
-      <ul>
-        <li><strong>Role Portals:</strong> Donor, NGO, Receiver, and Super-Admin</li>
-        <li><strong>Interactive Maps:</strong> Live GPS food post radar via Leaflet.js</li>
-        <li><strong>Verification Flow:</strong> Scoped single-use 6-digit pickup PINs</li>
-        <li><strong>Privacy Protection:</strong> AES-256 field encryption for sensitive NIDs</li>
-        <li><strong>CI/CD:</strong> GitHub Actions automated database keep-alive</li>
-      </ul>
-      <p align="center">
-        <a href="https://hridoy-islam.vercel.app/"><strong>🌐 View on Portfolio</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Modern Full-Stack Architectures</h3>
-      <p align="center">
-        <strong>Scalable Web Apps & Digital Design Systems</strong>
-      </p>
-      <p>
-        Engineered with a focus on atomic component architecture, fluid responsiveness across devices (320px to 4K), state machines, and microservices backend integration.
-      </p>
-      <ul>
-        <li><strong>Architecture:</strong> Single-Port Express + Vite SPA deployment</li>
-        <li><strong>Performance:</strong> Zero layout shift, optimized asset bundling</li>
-        <li><strong>Security:</strong> Granular rate limiting & input sanitization</li>
-        <li><strong>Design Systems:</strong> Figma-to-code translation with semantic tokens</li>
-      </ul>
-      <p align="center">
-        <a href="https://hridoy-islam.vercel.app/"><strong>🌐 View on Portfolio</strong></a> • 
-        <a href="https://github.com/Hridooyislam"><strong>📂 Explore Repositories</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics & Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Hridooyislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hridoy's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridooyislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridooyislam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
